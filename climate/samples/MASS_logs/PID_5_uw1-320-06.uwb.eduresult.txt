@@ -1,0 +1,54 @@
+MProcess started
+Turn 5 agent 400000121 current Location = [51][39]
+
+Turn 5 agent 400000119 current Location = [52][38]
+
+Turn 5 agent 400000122 current Location = [50][43]
+
+Turn 5 agent 400000125 current Location = [52][44]
+
+Turn 5 agent 400000117 current Location = [50][36]
+
+Turn 10 agent 400000109 current Location = [51][43]
+
+Turn 10 agent 400000119 current Location = [51][36]
+
+Turn 10 agent 400000116 current Location = [50][30]
+
+Turn 10 agent 400000101 current Location = [50][36]
+
+Turn 10 agent 400000121 current Location = [50][39]
+
+Turn 10 agent 400000105 current Location = [52][41]
+
+Turn 10 agent 400000125 current Location = [51][44]
+
+Turn 15 agent 400000125 current Location = [54][42]
+
+Turn 15 agent 400000117 current Location = [52][34]
+
+Turn 15 agent 400000121 current Location = [51][39]
+
+Turn 15 agent 400000119 current Location = [53][37]
+
+Turn 15 agent 400000109 current Location = [50][41]
+
+Turn 15 agent 400000112 current Location = [51][34]
+
+Turn 15 agent 400000126 current Location = [51][48]
+
+Turn 15 agent 400000105 current Location = [50][40]
+
+Turn 20 agent 400000125 current Location = [53][41]
+
+Turn 20 agent 400000117 current Location = [51][33]
+
+Turn 20 agent 400000119 current Location = [54][38]
+
+Turn 20 agent 400000093 current Location = [51][42]
+
+Turn 20 agent 400000121 current Location = [50][40]
+
+Turn 20 agent 400000105 current Location = [50][42]
+
+~Socket called: clientFd = 4 serverFd = -1

@@ -1,0 +1,1020 @@
+MProcess started
+Turn 0 agent 400000123 current Location = [47][42]
+
+Turn 0 agent 400000111 current Location = [46][48]
+
+Turn 0 agent 400000126 current Location = [47][45]
+
+Turn 0 agent 400000122 current Location = [48][42]
+
+Turn 0 agent 400000120 current Location = [48][40]
+
+Turn 0 agent 400000124 current Location = [47][43]
+
+Turn 0 agent 400000127 current Location = [46][47]
+
+Turn 0 agent 400000121 current Location = [48][41]
+
+Turn 0 agent 400000117 current Location = [48][37]
+
+Turn 0 agent 400000119 current Location = [48][39]
+
+Turn 0 agent 400000114 current Location = [47][33]
+
+Turn 0 agent 400000116 current Location = [48][36]
+
+Turn 0 agent 400000125 current Location = [48][45]
+
+Turn 0 agent 400000118 current Location = [47][37]
+
+Turn 0 agent 400000115 current Location = [47][36]
+
+Turn 0 agent 400000109 current Location = [46][45]
+
+Turn 0 agent 400000091 current Location = [45][43]
+
+Turn 0 agent 400000108 current Location = [46][44]
+
+Turn 0 agent 400000112 current Location = [48][32]
+
+Turn 0 agent 400000106 current Location = [46][42]
+
+Turn 0 agent 400000107 current Location = [46][43]
+
+Turn 0 agent 400000110 current Location = [46][46]
+
+Turn 0 agent 400000096 current Location = [46][31]
+
+Turn 0 agent 400000103 current Location = [46][39]
+
+Turn 0 agent 400000104 current Location = [46][40]
+
+Turn 0 agent 400000097 current Location = [46][33]
+
+Turn 0 agent 400000102 current Location = [46][38]
+
+Turn 0 agent 400000101 current Location = [46][37]
+
+Turn 0 agent 400000099 current Location = [46][35]
+
+Turn 0 agent 400000100 current Location = [46][36]
+
+Turn 0 agent 400000105 current Location = [46][41]
+
+Turn 0 agent 400000092 current Location = [45][44]
+
+Turn 0 agent 400000090 current Location = [45][42]
+
+Turn 0 agent 400000088 current Location = [45][40]
+
+Turn 0 agent 400000095 current Location = [45][48]
+
+Turn 0 agent 400000078 current Location = [44][46]
+
+Turn 0 agent 400000094 current Location = [45][46]
+
+Turn 0 agent 400000093 current Location = [45][45]
+
+Turn 0 agent 400000085 current Location = [45][37]
+
+Turn 0 agent 400000089 current Location = [45][41]
+
+Turn 0 agent 400000087 current Location = [45][39]
+
+Turn 0 agent 400000082 current Location = [45][34]
+
+Turn 0 agent 400000084 current Location = [45][36]
+
+Turn 0 agent 400000086 current Location = [45][38]
+
+Turn 0 agent 400000113 current Location = [48][33]
+
+Turn 0 agent 400000083 current Location = [45][35]
+
+Turn 0 agent 400000076 current Location = [44][44]
+
+Turn 0 agent 400000075 current Location = [44][43]
+
+Turn 0 agent 400000079 current Location = [45][47]
+
+Turn 0 agent 400000060 current Location = [43][44]
+
+Turn 0 agent 400000077 current Location = [44][45]
+
+Turn 0 agent 400000061 current Location = [43][45]
+
+Turn 0 agent 400000072 current Location = [44][40]
+
+Turn 0 agent 400000074 current Location = [44][42]
+
+Turn 0 agent 400000069 current Location = [44][37]
+
+Turn 0 agent 400000098 current Location = [46][34]
+
+Turn 0 agent 400000030 current Location = [41][46]
+
+Turn 0 agent 400000073 current Location = [44][41]
+
+Turn 0 agent 400000081 current Location = [45][33]
+
+Turn 0 agent 400000070 current Location = [44][38]
+
+Turn 0 agent 400000066 current Location = [44][34]
+
+Turn 0 agent 400000071 current Location = [44][39]
+
+Turn 0 agent 400000068 current Location = [44][36]
+
+Turn 0 agent 400000058 current Location = [43][42]
+
+Turn 0 agent 400000067 current Location = [44][35]
+
+Turn 0 agent 400000057 current Location = [43][41]
+
+Turn 0 agent 400000063 current Location = [43][48]
+
+Turn 0 agent 400000055 current Location = [43][39]
+
+Turn 0 agent 400000059 current Location = [43][43]
+
+Turn 0 agent 400000052 current Location = [43][36]
+
+Turn 0 agent 400000056 current Location = [43][40]
+
+Turn 0 agent 400000048 current Location = [43][31]
+
+Turn 0 agent 400000065 current Location = [44][33]
+
+Turn 0 agent 400000080 current Location = [45][31]
+
+Turn 0 agent 400000051 current Location = [43][35]
+
+Turn 0 agent 400000062 current Location = [43][46]
+
+Turn 0 agent 400000053 current Location = [43][37]
+
+Turn 0 agent 400000049 current Location = [43][33]
+
+Turn 0 agent 400000034 current Location = [42][34]
+
+Turn 0 agent 400000046 current Location = [42][46]
+
+Turn 0 agent 400000050 current Location = [43][34]
+
+Turn 0 agent 400000044 current Location = [42][44]
+
+Turn 0 agent 400000064 current Location = [43][32]
+
+Turn 0 agent 400000012 current Location = [40][44]
+
+Turn 0 agent 400000054 current Location = [43][38]
+
+Turn 0 agent 400000045 current Location = [42][45]
+
+Turn 0 agent 400000040 current Location = [42][40]
+
+Turn 0 agent 400000041 current Location = [42][41]
+
+Turn 0 agent 400000037 current Location = [42][37]
+
+Turn 0 agent 400000043 current Location = [42][43]
+
+Turn 0 agent 400000039 current Location = [42][39]
+
+Turn 0 agent 400000047 current Location = [42][48]
+
+Turn 0 agent 400000038 current Location = [42][38]
+
+Turn 0 agent 400000033 current Location = [42][33]
+
+Turn 0 agent 400000042 current Location = [42][42]
+
+Turn 0 agent 400000036 current Location = [42][36]
+
+Turn 0 agent 400000035 current Location = [42][35]
+
+Turn 0 agent 400000016 current Location = [40][32]
+
+Turn 0 agent 400000020 current Location = [41][36]
+
+Turn 0 agent 400000027 current Location = [41][43]
+
+Turn 0 agent 400000032 current Location = [42][31]
+
+Turn 0 agent 400000024 current Location = [41][40]
+
+Turn 0 agent 400000026 current Location = [41][42]
+
+Turn 0 agent 400000029 current Location = [41][45]
+
+Turn 0 agent 400000031 current Location = [40][47]
+
+Turn 0 agent 400000028 current Location = [41][44]
+
+Turn 0 agent 400000018 current Location = [41][34]
+
+Turn 0 agent 400000025 current Location = [41][41]
+
+Turn 0 agent 400000023 current Location = [41][39]
+
+Turn 0 agent 400000021 current Location = [41][37]
+
+Turn 0 agent 400000022 current Location = [41][38]
+
+Turn 0 agent 400000013 current Location = [40][45]
+
+Turn 0 agent 400000011 current Location = [40][43]
+
+Turn 0 agent 400000010 current Location = [40][42]
+
+Turn 0 agent 400000014 current Location = [40][46]
+
+Turn 0 agent 400000015 current Location = [40][48]
+
+Turn 0 agent 400000019 current Location = [41][35]
+
+Turn 0 agent 400000017 current Location = [41][33]
+
+Turn 0 agent 400000004 current Location = [40][36]
+
+Turn 0 agent 400000007 current Location = [40][39]
+
+Turn 0 agent 400000008 current Location = [40][40]
+
+Turn 0 agent 400000009 current Location = [40][41]
+
+Turn 0 agent 400000006 current Location = [40][38]
+
+Turn 0 agent 400000003 current Location = [40][35]
+
+Turn 0 agent 400000005 current Location = [40][37]
+
+Turn 0 agent 400000001 current Location = [40][33]
+
+Turn 0 agent 400000002 current Location = [40][34]
+
+Turn 5 agent 400000004 current Location = [40][34]
+
+Turn 5 agent 400000062 current Location = [42][46]
+
+Turn 5 agent 400000113 current Location = [49][33]
+
+Turn 5 agent 400000120 current Location = [48][39]
+
+Turn 5 agent 400000052 current Location = [42][35]
+
+Turn 5 agent 400000030 current Location = [40][48]
+
+Turn 5 agent 400000003 current Location = [40][32]
+
+Turn 5 agent 300000125 current Location = [40][46]
+
+Turn 5 agent 400000037 current Location = [42][37]
+
+Turn 5 agent 400000008 current Location = [40][40]
+
+Turn 5 agent 400000006 current Location = [40][38]
+
+Turn 5 agent 400000040 current Location = [41][40]
+
+Turn 5 agent 400000065 current Location = [43][31]
+
+Turn 5 agent 400000035 current Location = [43][33]
+
+Turn 5 agent 400000022 current Location = [41][36]
+
+Turn 5 agent 400000078 current Location = [42][48]
+
+Turn 5 agent 400000010 current Location = [40][41]
+
+Turn 5 agent 400000017 current Location = [40][30]
+
+Turn 5 agent 400000001 current Location = [40][31]
+
+Turn 5 agent 400000049 current Location = [43][32]
+
+Turn 5 agent 400000046 current Location = [42][47]
+
+Turn 5 agent 400000025 current Location = [41][41]
+
+Turn 5 agent 400000024 current Location = [40][39]
+
+Turn 5 agent 400000023 current Location = [41][38]
+
+Turn 5 agent 400000005 current Location = [40][36]
+
+Turn 5 agent 400000013 current Location = [40][47]
+
+Turn 5 agent 400000059 current Location = [42][43]
+
+Turn 5 agent 400000032 current Location = [41][29]
+
+Turn 5 agent 400000043 current Location = [42][42]
+
+Turn 5 agent 400000019 current Location = [42][31]
+
+Turn 5 agent 400000020 current Location = [41][34]
+
+Turn 5 agent 400000028 current Location = [41][44]
+
+Turn 5 agent 400000033 current Location = [42][32]
+
+Turn 5 agent 400000051 current Location = [42][34]
+
+Turn 5 agent 400000060 current Location = [44][45]
+
+Turn 5 agent 400000057 current Location = [44][42]
+
+Turn 5 agent 400000058 current Location = [43][41]
+
+Turn 5 agent 400000015 current Location = [41][48]
+
+Turn 5 agent 400000026 current Location = [41][43]
+
+Turn 5 agent 400000029 current Location = [41][45]
+
+Turn 5 agent 400000044 current Location = [42][44]
+
+Turn 5 agent 400000041 current Location = [42][41]
+
+Turn 5 agent 400000105 current Location = [49][41]
+
+Turn 5 agent 400000042 current Location = [41][42]
+
+Turn 5 agent 400000038 current Location = [42][38]
+
+Turn 5 agent 400000079 current Location = [45][47]
+
+Turn 5 agent 400000047 current Location = [43][52]
+
+Turn 5 agent 400000069 current Location = [44][36]
+
+Turn 5 agent 400000055 current Location = [43][39]
+
+Turn 5 agent 400000080 current Location = [42][30]
+
+Turn 5 agent 400000070 current Location = [43][37]
+
+Turn 5 agent 400000064 current Location = [43][29]
+
+Turn 5 agent 400000075 current Location = [44][44]
+
+Turn 5 agent 400000072 current Location = [46][39]
+
+Turn 5 agent 400000088 current Location = [48][40]
+
+Turn 5 agent 400000053 current Location = [43][36]
+
+Turn 5 agent 400000054 current Location = [43][38]
+
+Turn 5 agent 400000094 current Location = [45][45]
+
+Turn 5 agent 400000056 current Location = [42][40]
+
+Turn 5 agent 400000050 current Location = [42][33]
+
+Turn 5 agent 400000118 current Location = [48][37]
+
+Turn 5 agent 400000092 current Location = [46][44]
+
+Turn 5 agent 400000067 current Location = [44][34]
+
+Turn 5 agent 400000095 current Location = [47][47]
+
+Turn 5 agent 400000045 current Location = [42][45]
+
+Turn 5 agent 400000076 current Location = [43][44]
+
+Turn 5 agent 400000104 current Location = [45][38]
+
+Turn 5 agent 400000100 current Location = [47][35]
+
+Turn 5 agent 400000085 current Location = [46][37]
+
+Turn 5 agent 400000082 current Location = [46][33]
+
+Turn 5 agent 400000036 current Location = [42][36]
+
+Turn 5 agent 400000083 current Location = [45][35]
+
+Turn 5 agent 400000098 current Location = [49][34]
+
+Turn 5 agent 400000021 current Location = [40][35]
+
+Turn 5 agent 400000061 current Location = [43][45]
+
+Turn 5 agent 400000084 current Location = [46][36]
+
+Turn 5 agent 400000115 current Location = [49][39]
+
+Turn 5 agent 400000101 current Location = [47][36]
+
+Turn 5 agent 400000097 current Location = [45][33]
+
+Turn 5 agent 400000091 current Location = [45][44]
+
+Turn 5 agent 400000102 current Location = [48][38]
+
+Turn 5 agent 400000126 current Location = [48][45]
+
+Turn 5 agent 400000081 current Location = [47][32]
+
+Turn 5 agent 400000107 current Location = [45][42]
+
+Turn 5 agent 400000108 current Location = [46][42]
+
+Turn 5 agent 400000127 current Location = [45][49]
+
+Turn 5 agent 400000039 current Location = [42][39]
+
+Turn 5 agent 400000066 current Location = [44][31]
+
+Turn 5 agent 400000074 current Location = [43][43]
+
+Turn 5 agent 400000068 current Location = [44][35]
+
+Turn 5 agent 400000063 current Location = [41][49]
+
+Turn 5 agent 400000086 current Location = [45][39]
+
+Turn 5 agent 400000077 current Location = [43][47]
+
+Turn 5 agent 400000090 current Location = [45][43]
+
+Turn 5 agent 400000103 current Location = [47][37]
+
+Turn 5 agent 400000087 current Location = [44][40]
+
+Turn 5 agent 400000106 current Location = [47][40]
+
+Turn 5 agent 400000093 current Location = [45][46]
+
+Turn 5 agent 400000124 current Location = [47][43]
+
+Turn 5 agent 400000109 current Location = [48][43]
+
+Turn 5 agent 400000071 current Location = [44][37]
+
+Turn 5 agent 400000123 current Location = [46][41]
+
+Turn 5 agent 400000073 current Location = [46][40]
+
+Turn 5 agent 400000116 current Location = [48][33]
+
+Turn 5 agent 400000096 current Location = [45][31]
+
+Turn 5 agent 400000112 current Location = [47][34]
+
+Turn 5 agent 400000111 current Location = [43][48]
+
+Turn 5 agent 400000089 current Location = [45][41]
+
+Turn 5 agent 400000011 current Location = [40][43]
+
+Turn 5 agent 400000114 current Location = [49][30]
+
+Turn 5 agent 400000099 current Location = [48][34]
+
+Turn 5 agent 400000110 current Location = [44][48]
+
+Turn 10 agent 400000085 current Location = [47][35]
+
+Turn 10 agent 400000001 current Location = [40][28]
+
+Turn 10 agent 400000114 current Location = [46][28]
+
+Turn 10 agent 400000088 current Location = [49][42]
+
+Turn 10 agent 400000091 current Location = [45][43]
+
+Turn 10 agent 400000090 current Location = [47][44]
+
+Turn 10 agent 400000006 current Location = [40][38]
+
+Turn 10 agent 400000108 current Location = [46][43]
+
+Turn 10 agent 400000096 current Location = [45][30]
+
+Turn 10 agent 400000013 current Location = [40][48]
+
+Turn 10 agent 400000089 current Location = [44][40]
+
+Turn 10 agent 400000081 current Location = [46][30]
+
+Turn 10 agent 400000071 current Location = [45][35]
+
+Turn 10 agent 400000068 current Location = [46][34]
+
+Turn 10 agent 400000041 current Location = [41][38]
+
+Turn 10 agent 400000100 current Location = [48][33]
+
+Turn 10 agent 400000076 current Location = [46][42]
+
+Turn 10 agent 400000093 current Location = [49][45]
+
+Turn 10 agent 400000124 current Location = [48][41]
+
+Turn 10 agent 400000126 current Location = [49][47]
+
+Turn 10 agent 400000073 current Location = [45][38]
+
+Turn 10 agent 400000066 current Location = [43][31]
+
+Turn 10 agent 400000112 current Location = [49][35]
+
+Turn 10 agent 400000127 current Location = [44][49]
+
+Turn 10 agent 400000053 current Location = [44][36]
+
+Turn 10 agent 400000099 current Location = [47][32]
+
+Turn 10 agent 400000103 current Location = [45][36]
+
+Turn 10 agent 400000104 current Location = [47][39]
+
+Turn 10 agent 400000098 current Location = [48][34]
+
+Turn 10 agent 400000111 current Location = [43][50]
+
+Turn 10 agent 400000070 current Location = [42][36]
+
+Turn 10 agent 400000074 current Location = [42][43]
+
+Turn 10 agent 400000123 current Location = [45][40]
+
+Turn 10 agent 400000083 current Location = [46][33]
+
+Turn 10 agent 400000086 current Location = [44][39]
+
+Turn 10 agent 400000077 current Location = [41][47]
+
+Turn 10 agent 400000084 current Location = [46][35]
+
+Turn 10 agent 400000087 current Location = [43][39]
+
+Turn 10 agent 400000037 current Location = [43][37]
+
+Turn 10 agent 400000082 current Location = [44][34]
+
+Turn 10 agent 400000039 current Location = [40][40]
+
+Turn 10 agent 400000067 current Location = [46][31]
+
+Turn 10 agent 400000106 current Location = [48][40]
+
+Turn 10 agent 400000097 current Location = [45][31]
+
+Turn 10 agent 400000061 current Location = [44][47]
+
+Turn 10 agent 400000045 current Location = [40][45]
+
+Turn 10 agent 400000026 current Location = [40][44]
+
+Turn 10 agent 400000080 current Location = [42][29]
+
+Turn 10 agent 400000054 current Location = [42][38]
+
+Turn 10 agent 400000118 current Location = [48][36]
+
+Turn 10 agent 400000092 current Location = [45][44]
+
+Turn 10 agent 400000056 current Location = [42][41]
+
+Turn 10 agent 400000115 current Location = [49][40]
+
+Turn 10 agent 400000110 current Location = [45][50]
+
+Turn 10 agent 400000025 current Location = [40][41]
+
+Turn 10 agent 400000064 current Location = [43][28]
+
+Turn 10 agent 400000079 current Location = [47][46]
+
+Turn 10 agent 400000102 current Location = [47][36]
+
+Turn 10 agent 400000058 current Location = [42][39]
+
+Turn 10 agent 400000107 current Location = [45][42]
+
+Turn 10 agent 400000051 current Location = [43][34]
+
+Turn 10 agent 400000065 current Location = [41][30]
+
+Turn 10 agent 400000055 current Location = [41][39]
+
+Turn 10 agent 400000019 current Location = [42][32]
+
+Turn 10 agent 400000072 current Location = [45][37]
+
+Turn 10 agent 400000059 current Location = [43][40]
+
+Turn 10 agent 400000046 current Location = [43][43]
+
+Turn 10 agent 400000017 current Location = [41][28]
+
+Turn 10 agent 400000015 current Location = [42][48]
+
+Turn 10 agent 400000094 current Location = [45][46]
+
+Turn 10 agent 400000120 current Location = [46][40]
+
+Turn 10 agent 400000075 current Location = [43][42]
+
+Turn 10 agent 400000047 current Location = [44][52]
+
+Turn 10 agent 400000095 current Location = [45][48]
+
+Turn 10 agent 400000042 current Location = [41][43]
+
+Turn 10 agent 400000022 current Location = [40][35]
+
+Turn 10 agent 400000038 current Location = [40][39]
+
+Turn 10 agent 400000032 current Location = [40][29]
+
+Turn 10 agent 400000117 current Location = [49][34]
+
+Turn 10 agent 400000035 current Location = [42][35]
+
+Turn 10 agent 400000033 current Location = [41][34]
+
+Turn 10 agent 400000004 current Location = [40][32]
+
+Turn 10 agent 400000078 current Location = [41][48]
+
+Turn 10 agent 400000023 current Location = [41][37]
+
+Turn 10 agent 400000020 current Location = [41][31]
+
+Turn 10 agent 400000122 current Location = [48][44]
+
+Turn 10 agent 400000062 current Location = [43][46]
+
+Turn 10 agent 400000028 current Location = [40][42]
+
+Turn 10 agent 400000052 current Location = [41][35]
+
+Turn 10 agent 400000044 current Location = [41][45]
+
+Turn 10 agent 400000060 current Location = [44][42]
+
+Turn 10 agent 400000003 current Location = [42][31]
+
+Turn 10 agent 400000057 current Location = [42][40]
+
+Turn 10 agent 400000069 current Location = [46][36]
+
+Turn 10 agent 400000049 current Location = [43][33]
+
+Turn 10 agent 400000050 current Location = [40][34]
+
+Turn 10 agent 400000113 current Location = [48][31]
+
+Turn 10 agent 400000031 current Location = [40][49]
+
+Turn 10 agent 400000043 current Location = [41][40]
+
+Turn 15 agent 400000118 current Location = [49][38]
+
+Turn 15 agent 300000078 current Location = [41][46]
+
+Turn 15 agent 400000116 current Location = [48][31]
+
+Turn 15 agent 400000057 current Location = [40][39]
+
+Turn 15 agent 400000113 current Location = [46][32]
+
+Turn 15 agent 400000095 current Location = [46][48]
+
+Turn 15 agent 400000124 current Location = [48][42]
+
+Turn 15 agent 400000028 current Location = [40][43]
+
+Turn 15 agent 400000101 current Location = [47][36]
+
+Turn 15 agent 400000094 current Location = [41][45]
+
+Turn 15 agent 400000054 current Location = [42][36]
+
+Turn 15 agent 400000052 current Location = [44][33]
+
+Turn 15 agent 400000050 current Location = [40][31]
+
+Turn 15 agent 400000049 current Location = [43][32]
+
+Turn 15 agent 400000015 current Location = [42][51]
+
+Turn 15 agent 400000069 current Location = [45][36]
+
+Turn 15 agent 400000023 current Location = [40][34]
+
+Turn 15 agent 400000110 current Location = [43][53]
+
+Turn 15 agent 400000078 current Location = [43][47]
+
+Turn 15 agent 400000047 current Location = [45][50]
+
+Turn 15 agent 400000072 current Location = [45][37]
+
+Turn 15 agent 400000046 current Location = [42][43]
+
+Turn 15 agent 400000086 current Location = [42][38]
+
+Turn 15 agent 400000107 current Location = [44][44]
+
+Turn 15 agent 400000056 current Location = [43][43]
+
+Turn 15 agent 300000125 current Location = [40][47]
+
+Turn 15 agent 400000120 current Location = [47][42]
+
+Turn 15 agent 400000122 current Location = [47][40]
+
+Turn 15 agent 400000102 current Location = [44][38]
+
+Turn 15 agent 400000031 current Location = [42][50]
+
+Turn 15 agent 400000051 current Location = [41][33]
+
+Turn 15 agent 400000100 current Location = [48][32]
+
+Turn 15 agent 400000060 current Location = [46][41]
+
+Turn 15 agent 400000079 current Location = [46][46]
+
+Turn 15 agent 400000064 current Location = [43][29]
+
+Turn 15 agent 400000087 current Location = [41][39]
+
+Turn 15 agent 400000089 current Location = [46][39]
+
+Turn 15 agent 400000061 current Location = [42][48]
+
+Turn 15 agent 400000044 current Location = [42][45]
+
+Turn 15 agent 400000065 current Location = [41][29]
+
+Turn 15 agent 400000082 current Location = [43][34]
+
+Turn 15 agent 400000075 current Location = [41][42]
+
+Turn 15 agent 400000059 current Location = [41][40]
+
+Turn 15 agent 400000003 current Location = [40][30]
+
+Turn 15 agent 400000067 current Location = [43][31]
+
+Turn 15 agent 400000092 current Location = [42][44]
+
+Turn 15 agent 400000037 current Location = [42][35]
+
+Turn 15 agent 400000093 current Location = [49][42]
+
+Turn 15 agent 400000043 current Location = [41][41]
+
+Turn 15 agent 400000042 current Location = [41][43]
+
+Turn 15 agent 400000084 current Location = [47][35]
+
+Turn 15 agent 400000097 current Location = [46][31]
+
+Turn 15 agent 400000111 current Location = [42][52]
+
+Turn 15 agent 400000098 current Location = [48][35]
+
+Turn 15 agent 400000115 current Location = [48][40]
+
+Turn 15 agent 400000019 current Location = [44][31]
+
+Turn 15 agent 400000058 current Location = [43][41]
+
+Turn 15 agent 400000106 current Location = [48][39]
+
+Turn 15 agent 400000091 current Location = [46][45]
+
+Turn 15 agent 400000081 current Location = [45][32]
+
+Turn 15 agent 400000073 current Location = [45][39]
+
+Turn 15 agent 400000123 current Location = [44][40]
+
+Turn 15 agent 400000108 current Location = [44][42]
+
+Turn 15 agent 400000035 current Location = [41][35]
+
+Turn 15 agent 400000104 current Location = [48][37]
+
+Turn 15 agent 400000039 current Location = [40][40]
+
+Turn 15 agent 400000088 current Location = [48][44]
+
+Turn 15 agent 400000077 current Location = [42][47]
+
+Turn 15 agent 400000066 current Location = [42][29]
+
+Turn 15 agent 400000055 current Location = [41][37]
+
+Turn 15 agent 400000004 current Location = [41][32]
+
+Turn 15 agent 400000080 current Location = [42][28]
+
+Turn 15 agent 400000083 current Location = [48][34]
+
+Turn 15 agent 400000096 current Location = [43][27]
+
+Turn 15 agent 400000071 current Location = [45][34]
+
+Turn 15 agent 400000076 current Location = [48][41]
+
+Turn 15 agent 400000029 current Location = [40][45]
+
+Turn 15 agent 400000090 current Location = [47][45]
+
+Turn 15 agent 400000053 current Location = [40][36]
+
+Turn 15 agent 400000085 current Location = [46][33]
+
+Turn 15 agent 400000099 current Location = [45][29]
+
+Turn 15 agent 400000103 current Location = [44][35]
+
+Turn 15 agent 400000068 current Location = [48][33]
+
+Turn 15 agent 400000017 current Location = [40][28]
+
+Turn 15 agent 400000041 current Location = [40][38]
+
+Turn 15 agent 400000127 current Location = [44][50]
+
+Turn 15 agent 400000114 current Location = [47][30]
+
+Turn 20 agent 400000126 current Location = [49][48]
+
+Turn 20 agent 400000063 current Location = [40][50]
+
+Turn 20 agent 400000081 current Location = [47][32]
+
+Turn 20 agent 400000029 current Location = [41][44]
+
+Turn 20 agent 400000112 current Location = [49][36]
+
+Turn 20 agent 400000085 current Location = [44][35]
+
+Turn 20 agent 400000012 current Location = [40][43]
+
+Turn 20 agent 300000122 current Location = [41][41]
+
+Turn 20 agent 400000096 current Location = [44][26]
+
+Turn 20 agent 400000088 current Location = [47][43]
+
+Turn 20 agent 400000021 current Location = [41][33]
+
+Turn 20 agent 400000004 current Location = [41][30]
+
+Turn 20 agent 400000032 current Location = [40][26]
+
+Turn 20 agent 400000103 current Location = [43][36]
+
+Turn 20 agent 400000090 current Location = [48][42]
+
+Turn 20 agent 400000077 current Location = [44][49]
+
+Turn 20 agent 400000073 current Location = [43][39]
+
+Turn 20 agent 400000080 current Location = [41][29]
+
+Turn 20 agent 400000087 current Location = [40][38]
+
+Turn 20 agent 400000099 current Location = [45][27]
+
+Turn 20 agent 400000058 current Location = [44][40]
+
+Turn 20 agent 400000109 current Location = [49][40]
+
+Turn 20 agent 400000083 current Location = [48][34]
+
+Turn 20 agent 400000104 current Location = [47][34]
+
+Turn 20 agent 400000114 current Location = [49][30]
+
+Turn 20 agent 400000068 current Location = [49][34]
+
+Turn 20 agent 400000044 current Location = [41][46]
+
+Turn 20 agent 400000079 current Location = [47][45]
+
+Turn 20 agent 400000055 current Location = [40][36]
+
+Turn 20 agent 400000098 current Location = [49][38]
+
+Turn 20 agent 400000043 current Location = [40][42]
+
+Turn 20 agent 400000071 current Location = [46][35]
+
+Turn 20 agent 400000100 current Location = [46][34]
+
+Turn 20 agent 400000106 current Location = [48][39]
+
+Turn 20 agent 400000123 current Location = [42][40]
+
+Turn 20 agent 400000111 current Location = [42][52]
+
+Turn 20 agent 400000037 current Location = [42][37]
+
+Turn 20 agent 400000084 current Location = [49][35]
+
+Turn 20 agent 400000019 current Location = [42][31]
+
+Turn 20 agent 400000078 current Location = [42][46]
+
+Turn 20 agent 400000075 current Location = [41][42]
+
+Turn 20 agent 400000091 current Location = [44][43]
+
+Turn 20 agent 400000092 current Location = [45][43]
+
+Turn 20 agent 400000076 current Location = [48][41]
+
+Turn 20 agent 400000089 current Location = [46][37]
+
+Turn 20 agent 400000067 current Location = [43][29]
+
+Turn 20 agent 400000127 current Location = [44][48]
+
+Turn 20 agent 400000086 current Location = [41][39]
+
+Turn 20 agent 400000097 current Location = [45][32]
+
+Turn 20 agent 400000064 current Location = [42][28]
+
+Turn 20 agent 400000066 current Location = [41][26]
+
+Turn 20 agent 400000031 current Location = [43][51]
+
+Turn 20 agent 400000122 current Location = [47][40]
+
+Turn 20 agent 400000120 current Location = [46][41]
+
+Turn 20 agent 400000051 current Location = [43][35]
+
+Turn 20 agent 300000078 current Location = [42][47]
+
+Turn 20 agent 400000035 current Location = [41][35]
+
+Turn 20 agent 400000060 current Location = [47][42]
+
+Turn 20 agent 400000070 current Location = [40][34]
+
+Turn 20 agent 400000056 current Location = [43][43]
+
+Turn 20 agent 400000110 current Location = [42][54]
+
+Turn 20 agent 400000113 current Location = [45][33]
+
+Turn 20 agent 400000052 current Location = [42][33]
+
+Turn 20 agent 400000115 current Location = [46][38]
+
+Turn 20 agent 400000102 current Location = [44][36]
+
+Turn 20 agent 400000006 current Location = [41][37]
+
+Turn 20 agent 400000095 current Location = [46][46]
+
+Turn 20 agent 400000108 current Location = [45][41]
+
+Turn 20 agent 400000107 current Location = [43][45]
+
+Turn 20 agent 400000047 current Location = [46][53]
+
+Turn 20 agent 400000124 current Location = [49][43]
+
+Turn 20 agent 400000072 current Location = [45][37]
+
+Turn 20 agent 400000116 current Location = [49][32]
+
+Turn 20 agent 400000082 current Location = [43][32]
+
+Turn 20 agent 400000118 current Location = [48][37]
+
+Turn 20 agent 400000101 current Location = [45][36]
+
+Turn 20 agent 400000023 current Location = [40][35]
+
+Turn 20 agent 400000049 current Location = [44][31]
+
+Turn 20 agent 400000046 current Location = [42][44]
+
+Turn 20 agent 400000069 current Location = [45][34]
+
+Turn 20 agent 400000048 current Location = [40][27]
+
+Turn 20 agent 400000039 current Location = [40][40]
+
+Turn 20 agent 400000018 current Location = [40][30]
+
+Turn 20 agent 400000015 current Location = [41][50]
+
+~Socket called: clientFd = 4 serverFd = -1

@@ -1,0 +1,601 @@
+MProcess started
+creating agent at 40, 40
+
+creating agent at 40, 41
+
+creating agent at 40, 42
+
+creating agent at 40, 43
+
+creating agent at 40, 44
+
+creating agent at 40, 45
+
+creating agent at 40, 46
+
+creating agent at 40, 47
+
+creating agent at 40, 48
+
+creating agent at 40, 49
+
+creating agent at 40, 50
+
+creating agent at 40, 51
+
+creating agent at 40, 52
+
+creating agent at 40, 53
+
+creating agent at 40, 54
+
+creating agent at 40, 55
+
+creating agent at 40, 56
+
+creating agent at 40, 57
+
+creating agent at 40, 58
+
+creating agent at 40, 59
+
+creating agent at 41, 40
+
+creating agent at 41, 41
+
+creating agent at 41, 42
+
+creating agent at 41, 43
+
+creating agent at 41, 44
+
+creating agent at 41, 45
+
+creating agent at 41, 46
+
+creating agent at 41, 47
+
+creating agent at 41, 48
+
+creating agent at 41, 49
+
+creating agent at 41, 50
+
+creating agent at 41, 51
+
+creating agent at 41, 52
+
+creating agent at 41, 53
+
+creating agent at 41, 54
+
+creating agent at 41, 55
+
+creating agent at 41, 56
+
+creating agent at 41, 57
+
+creating agent at 41, 58
+
+creating agent at 41, 59
+
+creating agent at 42, 40
+
+creating agent at 42, 41
+
+creating agent at 42, 42
+
+creating agent at 42, 43
+
+creating agent at 42, 44
+
+creating agent at 42, 45
+
+creating agent at 42, 46
+
+creating agent at 42, 47
+
+creating agent at 42, 48
+
+creating agent at 42, 49
+
+creating agent at 42, 50
+
+creating agent at 42, 51
+
+creating agent at 42, 52
+
+creating agent at 42, 53
+
+creating agent at 42, 54
+
+creating agent at 42, 55
+
+creating agent at 42, 56
+
+creating agent at 42, 57
+
+creating agent at 42, 58
+
+creating agent at 42, 59
+
+creating agent at 43, 40
+
+creating agent at 43, 41
+
+creating agent at 43, 42
+
+creating agent at 43, 43
+
+creating agent at 43, 44
+
+creating agent at 43, 45
+
+creating agent at 43, 46
+
+creating agent at 43, 47
+
+creating agent at 43, 48
+
+creating agent at 43, 49
+
+creating agent at 43, 50
+
+creating agent at 43, 51
+
+creating agent at 43, 52
+
+creating agent at 43, 53
+
+creating agent at 43, 54
+
+creating agent at 43, 55
+
+creating agent at 43, 56
+
+creating agent at 43, 57
+
+creating agent at 43, 58
+
+creating agent at 43, 59
+
+creating agent at 44, 40
+
+creating agent at 44, 41
+
+creating agent at 44, 42
+
+creating agent at 44, 43
+
+creating agent at 44, 44
+
+creating agent at 44, 45
+
+creating agent at 44, 46
+
+creating agent at 44, 47
+
+creating agent at 44, 48
+
+creating agent at 44, 49
+
+creating agent at 44, 50
+
+creating agent at 44, 51
+
+creating agent at 44, 52
+
+creating agent at 44, 53
+
+creating agent at 44, 54
+
+creating agent at 44, 55
+
+creating agent at 44, 56
+
+creating agent at 44, 57
+
+creating agent at 44, 58
+
+creating agent at 44, 59
+
+creating agent at 45, 40
+
+creating agent at 45, 41
+
+creating agent at 45, 42
+
+creating agent at 45, 43
+
+creating agent at 45, 44
+
+creating agent at 45, 45
+
+creating agent at 45, 46
+
+creating agent at 45, 47
+
+creating agent at 45, 48
+
+creating agent at 45, 49
+
+creating agent at 45, 50
+
+creating agent at 45, 51
+
+creating agent at 45, 52
+
+creating agent at 45, 53
+
+creating agent at 45, 54
+
+creating agent at 45, 55
+
+creating agent at 45, 56
+
+creating agent at 45, 57
+
+creating agent at 45, 58
+
+creating agent at 45, 59
+
+creating agent at 46, 40
+
+creating agent at 46, 41
+
+creating agent at 46, 42
+
+creating agent at 46, 43
+
+creating agent at 46, 44
+
+creating agent at 46, 45
+
+creating agent at 46, 46
+
+creating agent at 46, 47
+
+creating agent at 46, 48
+
+creating agent at 46, 49
+
+creating agent at 46, 50
+
+creating agent at 46, 51
+
+creating agent at 46, 52
+
+creating agent at 46, 53
+
+creating agent at 46, 54
+
+creating agent at 46, 55
+
+creating agent at 46, 56
+
+creating agent at 46, 57
+
+creating agent at 46, 58
+
+creating agent at 46, 59
+
+creating agent at 47, 40
+
+creating agent at 47, 41
+
+creating agent at 47, 42
+
+creating agent at 47, 43
+
+creating agent at 47, 44
+
+creating agent at 47, 45
+
+creating agent at 47, 46
+
+creating agent at 47, 47
+
+creating agent at 47, 48
+
+creating agent at 47, 49
+
+creating agent at 47, 50
+
+creating agent at 47, 51
+
+creating agent at 47, 52
+
+creating agent at 47, 53
+
+creating agent at 47, 54
+
+creating agent at 47, 55
+
+creating agent at 47, 56
+
+creating agent at 47, 57
+
+creating agent at 47, 58
+
+creating agent at 47, 59
+
+creating agent at 48, 40
+
+creating agent at 48, 41
+
+creating agent at 48, 42
+
+creating agent at 48, 43
+
+creating agent at 48, 44
+
+creating agent at 48, 45
+
+creating agent at 48, 46
+
+creating agent at 48, 47
+
+creating agent at 48, 48
+
+creating agent at 48, 49
+
+creating agent at 48, 50
+
+creating agent at 48, 51
+
+creating agent at 48, 52
+
+creating agent at 48, 53
+
+creating agent at 48, 54
+
+creating agent at 48, 55
+
+creating agent at 48, 56
+
+creating agent at 48, 57
+
+creating agent at 48, 58
+
+creating agent at 48, 59
+
+creating agent at 49, 40
+
+creating agent at 49, 41
+
+creating agent at 49, 42
+
+creating agent at 49, 43
+
+creating agent at 49, 44
+
+creating agent at 49, 45
+
+creating agent at 49, 46
+
+creating agent at 49, 47
+
+creating agent at 49, 48
+
+creating agent at 49, 49
+
+creating agent at 49, 50
+
+creating agent at 49, 51
+
+creating agent at 49, 52
+
+creating agent at 49, 53
+
+creating agent at 49, 54
+
+creating agent at 49, 55
+
+creating agent at 49, 56
+
+creating agent at 49, 57
+
+creating agent at 49, 58
+
+creating agent at 49, 59
+
+moveDelegated2: Agent-100000177 at [48, 57] could not move!
+moveDelegated2: Agent-100000174 at [48, 54] could not move!
+moveDelegated2: Agent-100000171 at [48, 51] could not move!
+moveDelegated2: Agent-100000168 at [48, 48] could not move!
+moveDelegated2: Agent-100000165 at [48, 45] could not move!
+moveDelegated2: Agent-100000162 at [48, 42] could not move!
+moveDelegated2: Agent-100000117 at [45, 57] could not move!
+moveDelegated2: Agent-100000114 at [45, 54] could not move!
+moveDelegated2: Agent-100000111 at [45, 51] could not move!
+moveDelegated2: Agent-100000108 at [45, 48] could not move!
+moveDelegated2: Agent-100000105 at [45, 45] could not move!
+moveDelegated2: Agent-100000102 at [45, 42] could not move!
+moveDelegated2: Agent-100000057 at [42, 57] could not move!
+moveDelegated2: Agent-100000054 at [42, 54] could not move!
+moveDelegated2: Agent-100000051 at [42, 51] could not move!
+moveDelegated2: Agent-100000048 at [42, 48] could not move!
+moveDelegated2: Agent-100000045 at [42, 45] could not move!
+moveDelegated2: Agent-100000042 at [42, 42] could not move!
+moveDelegated2: Agent-100000002 at [40, 42] to move to [39, 42] a displacement of [-1, 0]
+moveDelegated2: Agent-100000005 at [40, 45] to move to [39, 45] a displacement of [-1, 0]
+moveDelegated2: Agent-100000008 at [40, 48] to move to [39, 48] a displacement of [-1, 0]
+moveDelegated2: Agent-100000011 at [40, 51] to move to [39, 51] a displacement of [-1, 0]
+moveDelegated2: Agent-100000014 at [40, 54] to move to [39, 54] a displacement of [-1, 0]
+moveDelegated2: Agent-100000017 at [40, 57] to move to [39, 57] a displacement of [-1, 0]
+moveDelegated2: Agent-100000062 at [43, 42] could not move!
+moveDelegated2: Agent-100000065 at [43, 45] could not move!
+moveDelegated2: Agent-100000068 at [43, 48] could not move!
+moveDelegated2: Agent-100000071 at [43, 51] could not move!
+moveDelegated2: Agent-100000074 at [43, 54] could not move!
+moveDelegated2: Agent-100000077 at [43, 57] could not move!
+moveDelegated2: Agent-100000122 at [46, 42] could not move!
+moveDelegated2: Agent-100000125 at [46, 45] could not move!
+moveDelegated2: Agent-100000128 at [46, 48] could not move!
+moveDelegated2: Agent-100000131 at [46, 51] could not move!
+moveDelegated2: Agent-100000134 at [46, 54] could not move!
+moveDelegated2: Agent-100000137 at [46, 57] could not move!
+moveDelegated2: Agent-100000182 at [49, 42] could not move!
+moveDelegated2: Agent-100000185 at [49, 45] could not move!
+moveDelegated2: Agent-100000188 at [49, 48] could not move!
+moveDelegated2: Agent-100000191 at [49, 51] could not move!
+moveDelegated2: Agent-100000194 at [49, 54] could not move!
+moveDelegated2: Agent-100000197 at [49, 57] could not move!
+moveDelegated2: Agent-100000157 at [47, 57] could not move!
+moveDelegated2: Agent-100000154 at [47, 54] could not move!
+moveDelegated2: Agent-100000151 at [47, 51] could not move!
+moveDelegated2: Agent-100000148 at [47, 48] could not move!
+moveDelegated2: Agent-100000145 at [47, 45] could not move!
+moveDelegated2: Agent-100000142 at [47, 42] could not move!
+moveDelegated2: Agent-100000097 at [44, 57] could not move!
+moveDelegated2: Agent-100000094 at [44, 54] could not move!
+moveDelegated2: Agent-100000091 at [44, 51] could not move!
+moveDelegated2: Agent-100000088 at [44, 48] could not move!
+moveDelegated2: Agent-100000085 at [44, 45] could not move!
+moveDelegated2: Agent-100000082 at [44, 42] could not move!
+moveDelegated2: Agent-100000037 at [41, 57] to move to [40, 57] a displacement of [-1, 0]
+moveDelegated2: Agent-100000034 at [41, 54] to move to [40, 54] a displacement of [-1, 0]
+moveDelegated2: Agent-100000031 at [41, 51] to move to [40, 51] a displacement of [-1, 0]
+moveDelegated2: Agent-100000028 at [41, 48] to move to [40, 48] a displacement of [-1, 0]
+moveDelegated2: Agent-100000025 at [41, 45] to move to [40, 45] a displacement of [-1, 0]
+moveDelegated2: Agent-100000022 at [41, 42] to move to [40, 42] a displacement of [-1, 0]
+moveDelegated2: Agent-100000040 at [42, 40] to move to [42, 39] a displacement of [0, -1]
+moveDelegated2: Agent-100000043 at [42, 43] could not move!
+moveDelegated2: Agent-100000046 at [42, 46] could not move!
+moveDelegated2: Agent-100000049 at [42, 49] could not move!
+moveDelegated2: Agent-100000052 at [42, 52] could not move!
+moveDelegated2: Agent-100000055 at [42, 55] could not move!
+moveDelegated2: Agent-100000058 at [42, 58] could not move!
+moveDelegated2: Agent-100000100 at [45, 40] to move to [45, 39] a displacement of [0, -1]
+moveDelegated2: Agent-100000103 at [45, 43] could not move!
+moveDelegated2: Agent-100000106 at [45, 46] could not move!
+moveDelegated2: Agent-100000109 at [45, 49] could not move!
+moveDelegated2: Agent-100000112 at [45, 52] could not move!
+moveDelegated2: Agent-100000115 at [45, 55] could not move!
+moveDelegated2: Agent-100000118 at [45, 58] could not move!
+moveDelegated2: Agent-100000160 at [48, 40] to move to [48, 39] a displacement of [0, -1]
+moveDelegated2: Agent-100000163 at [48, 43] could not move!
+moveDelegated2: Agent-100000166 at [48, 46] could not move!
+moveDelegated2: Agent-100000169 at [48, 49] could not move!
+moveDelegated2: Agent-100000172 at [48, 52] could not move!
+moveDelegated2: Agent-100000175 at [48, 55] could not move!
+moveDelegated2: Agent-100000178 at [48, 58] could not move!
+moveDelegated2: Agent-100000198 at [49, 58] could not move!
+moveDelegated2: Agent-100000195 at [49, 55] could not move!
+moveDelegated2: Agent-100000192 at [49, 52] could not move!
+moveDelegated2: Agent-100000189 at [49, 49] could not move!
+moveDelegated2: Agent-100000186 at [49, 46] could not move!
+moveDelegated2: Agent-100000183 at [49, 43] could not move!
+moveDelegated2: Agent-100000180 at [49, 40] to move to [49, 39] a displacement of [0, -1]
+moveDelegated2: Agent-100000138 at [46, 58] could not move!
+moveDelegated2: Agent-100000135 at [46, 55] could not move!
+moveDelegated2: Agent-100000132 at [46, 52] could not move!
+moveDelegated2: Agent-100000129 at [46, 49] could not move!
+moveDelegated2: Agent-100000126 at [46, 46] could not move!
+moveDelegated2: Agent-100000123 at [46, 43] could not move!
+moveDelegated2: Agent-100000120 at [46, 40] to move to [45, 40] a displacement of [-1, 0]
+moveDelegated2: Agent-100000078 at [43, 58] could not move!
+moveDelegated2: Agent-100000075 at [43, 55] could not move!
+moveDelegated2: Agent-100000072 at [43, 52] could not move!
+moveDelegated2: Agent-100000069 at [43, 49] could not move!
+moveDelegated2: Agent-100000066 at [43, 46] could not move!
+moveDelegated2: Agent-100000063 at [43, 43] could not move!
+moveDelegated2: Agent-100000060 at [43, 40] to move to [42, 40] a displacement of [-1, 0]
+moveDelegated2: Agent-100000018 at [40, 58] to move to [39, 58] a displacement of [-1, 0]
+moveDelegated2: Agent-100000015 at [40, 55] to move to [39, 55] a displacement of [-1, 0]
+moveDelegated2: Agent-100000012 at [40, 52] to move to [39, 52] a displacement of [-1, 0]
+moveDelegated2: Agent-100000009 at [40, 49] to move to [39, 49] a displacement of [-1, 0]
+moveDelegated2: Agent-100000006 at [40, 46] to move to [39, 46] a displacement of [-1, 0]
+moveDelegated2: Agent-100000003 at [40, 43] to move to [39, 43] a displacement of [-1, 0]
+moveDelegated2: Agent-100000000 at [40, 40] to move to [40, 39] a displacement of [0, -1]
+moveDelegated2: Agent-100000020 at [41, 40] to move to [41, 39] a displacement of [0, -1]
+moveDelegated2: Agent-100000023 at [41, 43] to move to [41, 42] a displacement of [0, -1]
+moveDelegated2: Agent-100000026 at [41, 46] to move to [40, 46] a displacement of [-1, 0]
+moveDelegated2: Agent-100000029 at [41, 49] to move to [40, 49] a displacement of [-1, 0]
+moveDelegated2: Agent-100000032 at [41, 52] to move to [40, 52] a displacement of [-1, 0]
+moveDelegated2: Agent-100000035 at [41, 55] to move to [40, 55] a displacement of [-1, 0]
+moveDelegated2: Agent-100000038 at [41, 58] to move to [41, 57] a displacement of [0, -1]
+moveDelegated2: Agent-100000080 at [44, 40] to move to [44, 39] a displacement of [0, -1]
+moveDelegated2: Agent-100000083 at [44, 43] could not move!
+moveDelegated2: Agent-100000086 at [44, 46] could not move!
+moveDelegated2: Agent-100000089 at [44, 49] could not move!
+moveDelegated2: Agent-100000092 at [44, 52] could not move!
+moveDelegated2: Agent-100000095 at [44, 55] could not move!
+moveDelegated2: Agent-100000098 at [44, 58] could not move!
+moveDelegated2: Agent-100000140 at [47, 40] to move to [48, 40] a displacement of [1, 0]
+moveDelegated2: Agent-100000143 at [47, 43] could not move!
+moveDelegated2: Agent-100000146 at [47, 46] could not move!
+moveDelegated2: Agent-100000149 at [47, 49] could not move!
+moveDelegated2: Agent-100000152 at [47, 52] could not move!
+moveDelegated2: Agent-100000155 at [47, 55] could not move!
+moveDelegated2: Agent-100000158 at [47, 58] could not move!
+moveDelegated2: Agent-100000179 at [48, 59] to move to [48, 60] a displacement of [0, 1]
+moveDelegated2: Agent-100000176 at [48, 56] could not move!
+moveDelegated2: Agent-100000173 at [48, 53] could not move!
+moveDelegated2: Agent-100000170 at [48, 50] could not move!
+moveDelegated2: Agent-100000167 at [48, 47] could not move!
+moveDelegated2: Agent-100000164 at [48, 44] could not move!
+moveDelegated2: Agent-100000161 at [48, 41] could not move!
+moveDelegated2: Agent-100000119 at [45, 59] to move to [45, 60] a displacement of [0, 1]
+moveDelegated2: Agent-100000116 at [45, 56] could not move!
+moveDelegated2: Agent-100000113 at [45, 53] could not move!
+moveDelegated2: Agent-100000110 at [45, 50] could not move!
+moveDelegated2: Agent-100000107 at [45, 47] could not move!
+moveDelegated2: Agent-100000104 at [45, 44] could not move!
+moveDelegated2: Agent-100000101 at [45, 41] could not move!
+moveDelegated2: Agent-100000059 at [42, 59] to move to [42, 60] a displacement of [0, 1]
+moveDelegated2: Agent-100000056 at [42, 56] could not move!
+moveDelegated2: Agent-100000053 at [42, 53] could not move!
+moveDelegated2: Agent-100000050 at [42, 50] could not move!
+moveDelegated2: Agent-100000047 at [42, 47] could not move!
+moveDelegated2: Agent-100000044 at [42, 44] could not move!
+moveDelegated2: Agent-100000041 at [42, 41] could not move!
+moveDelegated2: Agent-100000001 at [40, 41] to move to [40, 40] a displacement of [0, -1]
+moveDelegated2: Agent-100000004 at [40, 44] to move to [39, 44] a displacement of [-1, 0]
+moveDelegated2: Agent-100000007 at [40, 47] to move to [39, 47] a displacement of [-1, 0]
+moveDelegated2: Agent-100000010 at [40, 50] to move to [39, 50] a displacement of [-1, 0]
+moveDelegated2: Agent-100000013 at [40, 53] to move to [39, 53] a displacement of [-1, 0]
+moveDelegated2: Agent-100000016 at [40, 56] to move to [39, 56] a displacement of [-1, 0]
+moveDelegated2: Agent-100000019 at [40, 59] to move to [39, 59] a displacement of [-1, 0]
+moveDelegated2: Agent-100000061 at [43, 41] to move to [43, 40] a displacement of [0, -1]
+moveDelegated2: Agent-100000064 at [43, 44] could not move!
+moveDelegated2: Agent-100000067 at [43, 47] could not move!
+moveDelegated2: Agent-100000070 at [43, 50] could not move!
+moveDelegated2: Agent-100000073 at [43, 53] could not move!
+moveDelegated2: Agent-100000076 at [43, 56] could not move!
+moveDelegated2: Agent-100000079 at [43, 59] to move to [42, 59] a displacement of [-1, 0]
+moveDelegated2: Agent-100000121 at [46, 41] to move to [46, 40] a displacement of [0, -1]
+moveDelegated2: Agent-100000124 at [46, 44] could not move!
+moveDelegated2: Agent-100000127 at [46, 47] could not move!
+moveDelegated2: Agent-100000130 at [46, 50] could not move!
+moveDelegated2: Agent-100000133 at [46, 53] could not move!
+moveDelegated2: Agent-100000136 at [46, 56] could not move!
+moveDelegated2: Agent-100000139 at [46, 59] to move to [46, 60] a displacement of [0, 1]
+moveDelegated2: Agent-100000181 at [49, 41] to move to [49, 40] a displacement of [0, -1]
+moveDelegated2: Agent-100000184 at [49, 44] could not move!
+moveDelegated2: Agent-100000187 at [49, 47] could not move!
+moveDelegated2: Agent-100000190 at [49, 50] could not move!
+moveDelegated2: Agent-100000193 at [49, 53] could not move!
+moveDelegated2: Agent-100000196 at [49, 56] could not move!
+moveDelegated2: Agent-100000199 at [49, 59] to move to [49, 60] a displacement of [0, 1]
+moveDelegated2: Agent-100000159 at [47, 59] to move to [47, 60] a displacement of [0, 1]
+moveDelegated2: Agent-100000156 at [47, 56] could not move!
+moveDelegated2: Agent-100000153 at [47, 53] could not move!
+moveDelegated2: Agent-100000150 at [47, 50] could not move!
+moveDelegated2: Agent-100000147 at [47, 47] could not move!
+moveDelegated2: Agent-100000144 at [47, 44] could not move!
+moveDelegated2: Agent-100000141 at [47, 41] to move to [46, 41] a displacement of [-1, 0]
+moveDelegated2: Agent-100000099 at [44, 59] to move to [45, 59] a displacement of [1, 0]
+moveDelegated2: Agent-100000096 at [44, 56] could not move!
+moveDelegated2: Agent-100000093 at [44, 53] could not move!
+moveDelegated2: Agent-100000090 at [44, 50] could not move!
+moveDelegated2: Agent-100000087 at [44, 47] could not move!
+moveDelegated2: Agent-100000084 at [44, 44] could not move!
+moveDelegated2: Agent-100000081 at [44, 41] to move to [44, 40] a displacement of [0, -1]
+moveDelegated2: Agent-100000039 at [41, 59] to move to [40, 59] a displacement of [-1, 0]
+moveDelegated2: Agent-100000036 at [41, 56] to move to [40, 56] a displacement of [-1, 0]
+moveDelegated2: Agent-100000033 at [41, 53] to move to [40, 53] a displacement of [-1, 0]
+moveDelegated2: Agent-100000030 at [41, 50] to move to [40, 50] a displacement of [-1, 0]
+moveDelegated2: Agent-100000027 at [41, 47] to move to [41, 46] a displacement of [0, -1]
+moveDelegated2: Agent-100000024 at [41, 44] to move to [41, 43] a displacement of [0, -1]
+moveDelegated2: Agent-100000021 at [41, 41] to move to [40, 41] a displacement of [-1, 0]
